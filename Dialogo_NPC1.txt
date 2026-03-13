@@ -4,3 +4,4 @@ estas ocupado?:
 
 nos vemos luego?:
 
+[Dialogo_NPC-Si]
