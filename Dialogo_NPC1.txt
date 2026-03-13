@@ -4,4 +4,4 @@ estas ocupado?:
 
 nos vemos luego?:
 
-[Dialogo_NPC-Si]
+[Dialogo_NPC-Si, Dialgo_NPC_NO]
