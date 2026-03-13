@@ -4,6 +4,4 @@ estas ocupado?:
 
 nos vemos luego?:
 
-["Dialogo_NPC_SI"]
-
-["Dialogo_NPC_NO"]
+[Dialogo_NPC-Si, Dialgo_NPC_NO]
